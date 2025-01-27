@@ -1,0 +1,14 @@
+h1{
+    font-size: 2em;
+    color: firebrick;
+    text-align: center;
+    text-transform: capitalize;
+    font-family:"Baskervville SC", serif;
+}
+.fa-address-book{
+    color: gold;
+    display: block;
+    margin: auto;
+    font-size: 1em;
+
+}

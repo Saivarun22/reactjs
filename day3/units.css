@@ -1,0 +1,34 @@
+.px{
+    color: rgb(180, 116, 34);
+    border: 5px solid black;
+    font-size: 20px;
+    padding: 10px;
+}
+.em{
+    color: rgb(37, 148, 111);
+    border: 5px solid black;
+    font-size:0.5em;
+    padding: 2em;
+
+}
+.vw{
+    color: darkorange;
+    font-size: 1vw;
+}
+html{
+    font-size: 2em;
+}
+img{
+    width: 10em;
+}
+.p{
+    width: 800px;
+    height: 300px;
+    border: 10px solid black;
+}
+.c{
+    background-color: darkmagenta;
+    width: 75%;
+    height:100% ;
+
+}

@@ -1,0 +1,18 @@
+h1{
+    color: bisque;
+    background-color: rgb(226, 214, 43);
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    color: aliceblue;
+}
+body{
+    background-image:linear-gradient(blueviolet,purple,violet);
+    background-repeat:no-repeat;
+
+    background-position: center;
+    height: 800px;
+    background-attachment: scroll;
+}

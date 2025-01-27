@@ -1,0 +1,30 @@
+h1{
+    color:#fffd99;
+    font-family:serif;
+    font-size:xx-large;
+    text-transform:uppercase;
+    text-shadow: 4px 4px 5px rgb(40, 38, 37);
+    text-align: center;
+    letter-spacing: 20px;
+    border: 10px solid brown;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+p{
+  color:rgb(255, 77, 0);
+  line-height: 20px;
+  text-indent: 10px;
+}
+ul {
+  list-style-type: square;
+  text-align:center ;
+  list-style-position:inside;
+
+}
+img {
+  display: block;
+  margin: auto;
+  border-radius: 200px;
+  box-shadow: 5px 5px 5px rgb(221, 255, 0);
+}

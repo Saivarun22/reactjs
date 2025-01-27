@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: darkolivegreen;
+    text-transform: uppercase;
+}
+table{
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+}
+table,th,tr,td{
+    border: 2px solid black;
+    border-collapse:collapse ;
+    padding: 20px;
+    background: khaki;
+    color: black;
+    font-weight: bold;
+}
+th{
+    background-color: blue;
+    color: white;
+
+}

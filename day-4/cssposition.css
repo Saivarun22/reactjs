@@ -1,0 +1,13 @@
+.parent{
+
+    border: 5px solid black;
+    width: 500px;
+    height: 500px;
+}
+.heading-2{
+    position: sticky;
+    top:20px;
+}
+body{
+    height: 5000px;
+}

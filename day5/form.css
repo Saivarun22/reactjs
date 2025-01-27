@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color:darkmagenta;
+    margin-top: 50px;
+
+}
+form{
+    width: 500px;
+    margin:auto;
+    margin-top: 100px;
+    padding: 20px;
+
+}
+input[type="text"],
+[type="password"],
+[type="number"],
+[type="date"],
+[type="email"],
+[type="file"],
+select,textarea
+{
+    width: 500px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+    resize: none;
+}
+input[type="checkbox"],
+[type="radio"]
+{
+    width: 15px;
+    height: 15px;
+    margin-bottom: 20px;
+}
+button{
+    background-color: darkgoldenrod;
+    font-size: 15px;
+    float: right;
+    padding: 10px 20px;
+    font-weight: bold;
+    border:none;
+
+}
+label{
+    text-transform: capitalize;
+    font-weight: bold;
+}
+legend{
+    background-color: coral;
+    color: oldlace;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    border-radius: 5px;
+
+
+}

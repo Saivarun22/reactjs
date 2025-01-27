@@ -1,0 +1,60 @@
+/* profile of an employee */
+.profile{
+    width: 300px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 30px;
+    text-align: center;
+    box-shadow: 4px 4px 8px cornflowerblue,-4px 4px 8px grey;
+    padding: 20px;
+    background-image: linear-gradient(#F1DEC6,#179BAE);
+    position: relative;
+}
+/* profilr image of an employee */
+.profile .profile-image{
+    border-radius: 55%;
+    box-shadow: 4px 4px 8px cornflowerblue;
+    width: 60%;
+    height: 60%;
+}
+/* hover effect on profile image */
+.profile .profile-image:hover{
+    border-radius: 55%;
+    box-shadow: 4px 4px 8px rgb(237, 230, 100);
+    width: 80%;
+    height: 80%;
+}
+/* text of an profile */
+.profile h1{
+    color: rgb(255, 221, 0);
+    text-shadow:1px 1px 2px white;
+}
+/* paragraph in an profile */
+.profile p{
+    color: #F1DEC6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* hover effect for fb and linkedin */
+.fb:hover,.linkedin:hover{
+    box-shadow: 0px 0px 8px white;
+    border-radius: 50%;
+}
+/* images of fb and linkedin */
+.fb,.linkedin{
+    width: 50px;
+    border-radius: 50px;
+}
+/* image logos */
+.profile .logos{
+    position:absolute;
+    left: 30%;
+    margin-left: 25px;
+    bottom: -25px;
+}
+/* reactjs logo */
+.profile .reactjs{
+    width: 60px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}

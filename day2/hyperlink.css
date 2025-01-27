@@ -1,0 +1,37 @@
+ul{
+    list-style: none;
+}
+h1{
+    color: darkgreen;
+    font-weight: bold;
+
+}
+img:hover{
+    box-shadow: 3px 3px 5px darkkhaki;
+}
+a{
+    color: aqua;
+    font-size: larger;
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:link{
+    color: blue;
+    text-decoration: underline;
+}
+
+a:visited{
+    color: orange;
+}
+a:hover{
+    color: red;
+    font-weight: bold;
+}
+a:active{
+    background-color: antiquewhite;
+    color: darkorange;
+}
+a:focus{
+    background-color: green;
+    color: brown;
+}

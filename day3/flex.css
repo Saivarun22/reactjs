@@ -1,0 +1,27 @@
+.parent{
+    max-width: 450px;
+    height: 225px;
+    border: 5px solid black;
+    margin: auto;
+    display: flex;
+    flex-direction:row ;
+    flex-wrap: wrap;
+    align-items: baseline;
+
+}
+.child1,.child2,.child3{
+    width: 100px;
+    height: 112px;
+}
+.child1{
+    background-color: coral;
+    
+}
+.child2{
+    background-color: yellow;
+    
+}
+.child3{
+    background-color: lawngreen;
+    
+}
